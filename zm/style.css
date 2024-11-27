@@ -1,0 +1,23 @@
+
+h2{
+    background-color: red;
+    font-size: 2em;
+}
+h3{
+    color: red;
+    font-size: 1.5em;
+}
+h4{
+    color: blue;
+    font-size: 1.3em;
+}
+
+#map {
+    height: 50vh;
+    width: 70vw;
+}
+
+footer{
+    background-color: blue;
+    color: white;
+}
